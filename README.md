@@ -15,7 +15,7 @@ Example `bots.json`:
                 "channelId": "channelid",
                 "minWaitSecs": 30,
                 "waitSecsVariance": 60,
-                // Path to a list of messages in the same directory
+                // Path to a list of messages in the same directory <-- delete this comment
                 "messagesList": "text.txt"
             },
             {
