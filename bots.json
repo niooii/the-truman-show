@@ -1,0 +1,38 @@
+[
+    {
+        "auth": "EXAMPLEAUTH1",
+        "wpm": 80,
+        "tasks": [
+            {
+                "channelId": "channelid",
+                "minWaitSecs": 30,
+                "waitSecsVariance": 60,
+                "messagesList": "text.txt"
+            },
+            {
+                "channelId": "channelid",
+                "minWaitSecs": 30,
+                "waitSecsVariance": 60,
+                "messagesList": "text.txt"
+            },
+            {
+                "channelId": "channelid",
+                "minWaitSecs": 30,
+                "waitSecsVariance": 60,
+                "messagesList": "text.txt"
+            }
+        ]
+    },
+    {
+        "auth": "EXAMPLEAUTH2",
+        "wpm": 80,
+        "tasks": [
+            {
+                "channelId": "channelid",
+                "minWaitSecs": 2,
+                "waitSecsVariance": 4,
+                "messagesList": "text.txt"
+            }
+        ]
+    }
+]
