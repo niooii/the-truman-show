@@ -1,0 +1,19 @@
+{
+    "auth": "EXAMPLEAUTH1",
+    "wpm": 80,
+    "personality": "TODO",
+    "communicationStyle": "TODO",
+    "servers": [
+        {
+            "id": "EXAMPLESERVERID",
+            "context": "some funny server"
+        }
+    ],
+    "inactivityHours": [
+        {
+            "start": 23,
+            "end": 8,
+            "reason": "sleeping"
+        }
+    ]
+}

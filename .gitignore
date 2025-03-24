@@ -3,3 +3,6 @@ build
 dist
 main.spec
 bots.json
+bots
+.env
+config.json

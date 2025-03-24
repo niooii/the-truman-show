@@ -1,0 +1,5 @@
+{
+    "globalLLM": "gemini",
+    "globalLLMApiKey": "examplekey",
+    "botsDirectory": "example_bots"
+}
